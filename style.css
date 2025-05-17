@@ -1,0 +1,52 @@
+.maindiv{
+    height: 100vh;
+    width: 100%;
+    background-color: yellow;
+    background: url('https://media.getmyuni.com/azure/college-image/big/vision-institute-of-technology-vit-kanpur.jpg');
+    overflow: hidden;
+}
+.maindiv .logindiv{
+    height: 60vh;
+    width: 30%;
+   background:url('https://th.bing.com/th/id/OIP.H9J4_BeuwP8pRfN5Y_DpHgHaDt?w=347&h=180&c=7&r=0&o=5&cb=iwc2&dpr=1.4&pid=1.7');
+    margin-left: 35%;
+    margin-top: 12%;
+    border: 5px solid mediumslateblue;
+}
+.maindiv .logindiv h2{
+    color: white;
+}
+.maindiv .logindiv label{
+    color: white;
+    margin-left: 10%;
+}
+.maindiv .logindiv button{
+    background-color: cyan;
+    color: crimson;
+    border-radius: 20px;
+    margin-left: 30%;
+    height: 30px;
+    width: 40%;
+}
+.maindiv .logindiv button:hover{
+    cursor: pointer;
+    height:40px;
+    width: 50%;
+    transition: 2s;
+}
+.maindiv .logindiv a{
+    color:white;
+}
+.maindiv .logindiv .logo{
+    height: 50px;
+    width: 20%;
+    border-radius: 50%;
+    background-color: cyan;
+    margin-left: 35%;
+}
+.maindiv .logindiv .logo img{
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+    border: 5px solid red;
+}
